@@ -81,7 +81,8 @@ target/
 # exclude data from source control by default
 /data/
 
-old/
+# exclude old data
+/old/
 
 # Mac OS-specific storage files
 .DS_Store
